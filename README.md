@@ -68,7 +68,7 @@ Steps to Run the Project
 
 Clone the repository
 
-git clone https://github.com/Yandisa619/LibraryManagementSystem.git
+git clone https://github.com/LeonNgwala/LibraryManagementSystem.git
 
 Navigate to the project directory
 
@@ -99,6 +99,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For any issues or suggestions, please create an issue on GitHub or reach out to me:
 
-GitHub: Yandisa619
+GitHub: LeonNgwala
 
-Email: yndubela07@gmail.com
+Email: luthongwala100@gmail.com
